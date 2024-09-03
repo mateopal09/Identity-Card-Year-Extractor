@@ -1,2 +1,9 @@
-# Identity-Card-Year-Extractor
-This is a resolver of the proble Identity card year
+# Extract Year from Identity Card Number
+
+This project includes a Java program to extract the year from an identity card number.
+
+## Sequence Diagram
+
+Below is the sequence diagram for the program:
+
+![Sequence Diagram](C:\Users\matep\OneDrive\Documentos\Universidad\javasequential.png)
